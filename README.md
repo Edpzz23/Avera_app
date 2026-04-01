@@ -1,5 +1,4 @@
-# Avera_app
-repositorio_app
+
 Average es una aplicación diseñada para un mejor maejo de tus finanzas personales apoyado de integración de asistente con IA mediante consumo de API externa, auidando al usuario a tener un mejor manejo y estructuración de sus datos financieros.
 
 Este repositorio contiene el código fuente completo y los recursos necesarios para el funcionamiento de la aplicación.
