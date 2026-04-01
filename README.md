@@ -4,4 +4,4 @@ Average es una aplicación diseñada para un mejor maejo de tus finanzas persona
 Este repositorio contiene el código fuente completo y los recursos necesarios para el funcionamiento de la aplicación.
 
 ## Estado del Proyecto
-Actualmente, el proyecto se encuentra en una fase inicial de migración. El código ha sido subido recientemente y se están realizando los ajustes finales para asegurar su correcto funcionamiento en este nuevo entorno.
+Actualmente, el proyecto se encuentra en una fase inicial de migración. El código se ha sido subido recientemente y se están realizando los ajustes finales para asegurar su correcto funcionamiento en este nuevo entorno.
